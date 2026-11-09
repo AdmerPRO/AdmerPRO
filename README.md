@@ -8,5 +8,22 @@
 
 ### About Me
 - I'm from Poland 🇵🇱
-- Still learning new thinks 🌟
+- Still learning new things 🌟
 - I like programming ⌨️
+- I work with Python, Java, HTML, CSS, JavaScript, and Rust 🛠️
+- I create Minecraft plugins and mods in Java ⛏️
+- Visit my website: [admerpro.com](https://admerpro.com) 🌐
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,rust" alt="Python, Java, HTML, CSS, JavaScript, and Rust" />
+</p>
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake.svg" />
+</picture>
