@@ -23,7 +23,7 @@
 ### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake.svg?v=1" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/AdmerPRO/AdmerPRO/output/github-snake.svg?v=1" />
 </picture>
